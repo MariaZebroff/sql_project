@@ -1,0 +1,10 @@
+# macOS system files  
+.DS_Store  
+
+# VS Code settings  
+.vscode/  
+
+# Ignore CSV files folder  
+csv_files/  
+csv_files/*.csv
+csv_files/job_postings_fact.csv
